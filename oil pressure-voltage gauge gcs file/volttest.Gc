@@ -1,0 +1,7 @@
+// Movie - "pressure.gif" Size 160x128
+// Width  = 160
+// Height = 128
+// Frames = 187
+// Usage: pressure.gif(x, y);
+#constant pressure.gif    $media_SetSector(0x0000, 0x0000); media_Video
+

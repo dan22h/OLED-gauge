@@ -1,0 +1,7 @@
+// Movie - "oiltemp.gif" Size 160x128
+// Width  = 160
+// Height = 128
+// Frames = 185
+// Usage: oiltemp.gif(x, y);
+#constant oiltemp.gif    $media_SetSector(0x0000, 0x0000); media_Video
+

@@ -1,0 +1,28 @@
+=====================================================
+SGC (Serial Graphics Controller) PLATFORM OUTPUT FILE
+=====================================================
+
+*******************************************************
+* This build option is not applicable to Goldelox SGC *
+* Must set 'New image format' for usage on Picaso SGC *
+* Data:                                               *
+*  0x59, 0x06, 0x00                                   *
+* 4DSL command:                                       *
+*  Control(6,0)                                       *
+*******************************************************
+
+---------------------------------------------------------------------------------------
+File "pressure.gif" (pressure.gif)
+Sector Address 0x000000
+X = 0 Y = 0 Width = 160 Height = 128 Bits = 16 Frames = 187 Delay = 40
+
+Display Movie from Memory Card (Serial Command):
+Syntax:
+@, V, x, y, delay, SectorAdd(hi), SectorAdd(mid), SectorAdd(lo)
+
+Picaso Data:
+0x40, 0x56, 0x00, 0x00, 0x00, 0x00, 0x28, 0x00, 0x00, 0x00
+
+4DSL command:
+NewVideo(0, 0, 40, 0x000000)
+

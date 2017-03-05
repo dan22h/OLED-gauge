@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphics_Composer version="2.0">
+  <item type="Properties" version="2">
+    <ResX>160</ResX>
+    <ResY>128</ResY>
+  </item>
+  <item type="Movie" version="2">
+    <File>pressure.gif</File>
+    <Name>pressure.gif</Name>
+    <Updated>2016/07/28 12:11:58</Updated>
+    <Position>
+      <Top>0</Top>
+      <Left>0</Left>
+      <Width>160</Width>
+      <Height>128</Height>
+    </Position>
+    <Source>
+      <Top>0</Top>
+      <Left>0</Left>
+      <Width>160</Width>
+      <Height>128</Height>
+    </Source>
+    <Pannable>False</Pannable>
+    <Tiled>
+      <Enabled>False</Enabled>
+    </Tiled>
+    <Movie>
+      <Start>0</Start>
+      <End>186</End>
+      <Frames>186</Frames>
+      <msFrame>40</msFrame>
+    </Movie>
+    <BitDepth>16</BitDepth>
+    <IgnoreScreensize>False</IgnoreScreensize>
+  </item>
+</graphics_Composer>
