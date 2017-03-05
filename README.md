@@ -2,6 +2,8 @@
 
 [URL=http://s160.photobucket.com/user/dan22h/media/B454BA7A-D0DD-42E0-9541-96540D9E4632_zps7xrowrfv.jpg.html][IMG]http://i160.photobucket.com/albums/t169/dan22h/B454BA7A-D0DD-42E0-9541-96540D9E4632_zps7xrowrfv.jpg[/IMG][/URL]
 
+[URL=http://s160.photobucket.com/user/dan22h/media/elise%20dash%20s1_zpsp1qghvlr.png.html][IMG]http://i160.photobucket.com/albums/t169/dan22h/elise%20dash%20s1_zpsp1qghvlr.png[/IMG][/URL]
+
 Code to drive a 4d systems uOLED 160 display module using an attiny84 or arduino for a car/automotive gauge. Sample images for Oil pressure, oil temp, voltage etc
 A project I created to implement an oled display (4d systems uOLED 160) as an automotive gauge display for my Lotus Elise. The gauges run of an attiny84 with dedicated PCB containing built in power supply with circuit protection or an arduino connected to appropriate sensors.
 
